@@ -1,6 +1,6 @@
-# test
+# Registro de Cadetes
 
-> A Vue.js project
+Este é um projeto cujo escopo é a manutenção de cadastros na Aliança. Para tanto, foi utilizado o acesso às APIs disponibilizadas pela +A Educação.
 
 ## Build Setup
 
